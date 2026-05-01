@@ -65,5 +65,6 @@ Sampatti Borse
 
 
 <img width="1878" height="903" alt="Screenshot 2026-05-01 113934" src="https://github.com/user-attachments/assets/7941b216-4837-400f-af81-c0c99f55423f" />
+--- 
 
 <img width="1878" height="903" alt="Screenshot 2026-05-01 113934" src="https://github.com/user-attachments/assets/b01659d9-7a5c-4930-9aba-7d7f5b4bd1e5" />
