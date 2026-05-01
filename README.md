@@ -55,8 +55,8 @@ The model learns from labeled training data and predicts the class of new unseen
 ---
 
 ## 🌐 Live Demo
+https://planthealthdetector.netlify.app/
 
-(Add your deployed link here)
 
 ---
 
